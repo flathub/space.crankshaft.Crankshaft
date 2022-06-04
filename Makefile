@@ -4,10 +4,14 @@
 
 .PHONY: clean
 clean:
-	rm -rf build dist .flatpak-builder python3-jsbeautifier.json go-sources.json yarn-sources.json
+	rm -rf build dist .flatpak-builder
+
+.PHONY: clean-deps
+clean-deps:
+	rm js-beautify-sources.json go-sources.json yarn-sources.json
 
 .PHONY: gen-deps
-gen-deps: clean gen-js-beautify-deps gen-go-yarn-deps
+gen-deps: clean-deps gen-js-beautify-deps gen-go-yarn-deps
 
 .PHONY: gen-go-yarn-deps
 gen-go-yarn-deps:

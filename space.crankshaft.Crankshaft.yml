@@ -66,4 +66,4 @@ modules:
       - type: archive
         dest: src/git.sr.ht/~avery/crankshaft
         url: https://git.sr.ht/~avery/crankshaft/archive/0.1.5.tar.gz
-        sha256: 2fb4da4f05a81f7f71e2ecb200193d6835c1d524c7752111a02b4ac20aa52c3a
+        sha256: 42f67565293c8c91138fd6ee51c59217e28ff90c6c9f708d3cb8fcefde0961ea

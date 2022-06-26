@@ -2,7 +2,7 @@
   {
     "type": "git",
     "url": "https://go.googlesource.com/sys",
-    "commit": "bc2c85ada10aa9b6aa9607e9ac9ad0761b95cf1d",
+    "commit": "87e55d71481061dc6dcfb9a4953c896af893c130",
     "dest": "src/golang.org/x/sys"
   },
   {
@@ -14,7 +14,7 @@
   {
     "type": "git",
     "url": "https://git.sr.ht/~avery/crankshaft",
-    "commit": "20ab4af2b0bec0aeb9878ccd36a5d3f3bde58d8f",
+    "commit": "0890de99573d2354de4455305c9ec3ddde556079",
     "dest": "src/git.sr.ht/~avery/crankshaft"
   },
   {
@@ -26,13 +26,13 @@
   {
     "type": "git",
     "url": "https://github.com/chromedp/chromedp",
-    "commit": "2a06b6a162c45c1807e9642d7f3c81782c7bdecf",
+    "commit": "ac112ec8eaa42607d85f349c75405957ce01d2fe",
     "dest": "src/github.com/chromedp/chromedp"
   },
   {
     "type": "git",
     "url": "https://github.com/chromedp/cdproto",
-    "commit": "c0f376d894d1442d53a4254bd245931a2a9a0974",
+    "commit": "1958475a8671254e922cd4c88e4cd99d226fb3f4",
     "dest": "src/github.com/chromedp/cdproto"
   },
   {
@@ -50,7 +50,7 @@
   {
     "type": "git",
     "url": "https://github.com/gorilla/websocket",
-    "commit": "78cf1bc733a927f673fd1988a25256b425552a8a",
+    "commit": "bc7ce893c36595e095de550a211feb5993e6ef92",
     "dest": "src/github.com/gorilla/websocket"
   },
   {
@@ -62,7 +62,7 @@
   {
     "type": "git",
     "url": "https://github.com/adrg/xdg",
-    "commit": "b5365d7475e53c3f7879c15a7d434c93d00253f5",
+    "commit": "834fa7e1dad6e1258a5c1a75c7f0a4b433c6cd7d",
     "dest": "src/github.com/adrg/xdg"
   },
   {
@@ -76,6 +76,12 @@
     "url": "https://github.com/felixge/httpsnoop",
     "commit": "ef9fc62cdc3cc5abc33d6018fe1324890bb48145",
     "dest": "src/github.com/felixge/httpsnoop"
+  },
+  {
+    "type": "git",
+    "url": "https://github.com/boltdb/bolt",
+    "commit": "fd01fc79c553a8e99d512a07e8e0c63d4a3ccfc5",
+    "dest": "src/github.com/boltdb/bolt"
   },
   {
     "type": "git",
@@ -98,13 +104,13 @@
   {
     "type": "git",
     "url": "https://github.com/evanw/esbuild",
-    "commit": "eda0e02720d29797e3ca492576436b70d1c76652",
+    "commit": "5d7ac55cba37391a5ee0239940a4a36638e26414",
     "dest": "src/github.com/evanw/esbuild"
   },
   {
     "type": "git",
     "url": "https://github.com/BurntSushi/toml",
-    "commit": "8fccf3c6afbe196f5843018ebf586cc5d325d6ca",
+    "commit": "2e74712cdd427078f9816c8f2eb42b538ea41fa8",
     "dest": "src/github.com/BurntSushi/toml"
   }
 ]

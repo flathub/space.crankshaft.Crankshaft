@@ -2,7 +2,7 @@
   {
     "type": "git",
     "url": "https://go.googlesource.com/sys",
-    "commit": "87e55d71481061dc6dcfb9a4953c896af893c130",
+    "commit": "f75cf1eec38b84b5cea42a93335150a532c7c75e",
     "dest": "src/golang.org/x/sys"
   },
   {
@@ -14,7 +14,7 @@
   {
     "type": "git",
     "url": "https://git.sr.ht/~avery/crankshaft",
-    "commit": "0890de99573d2354de4455305c9ec3ddde556079",
+    "commit": "cda111bb9bed6c20c83d89b25d1f5878aa8a2cfa",
     "dest": "src/git.sr.ht/~avery/crankshaft"
   },
   {
@@ -32,7 +32,7 @@
   {
     "type": "git",
     "url": "https://github.com/chromedp/cdproto",
-    "commit": "1958475a8671254e922cd4c88e4cd99d226fb3f4",
+    "commit": "4cfc9cdeeb92925c1bdc86396110f35e776b76a7",
     "dest": "src/github.com/chromedp/cdproto"
   },
   {
@@ -104,7 +104,7 @@
   {
     "type": "git",
     "url": "https://github.com/evanw/esbuild",
-    "commit": "5d7ac55cba37391a5ee0239940a4a36638e26414",
+    "commit": "71be8bc24e70609ab50a80e90a17a1f5770c89b5",
     "dest": "src/github.com/evanw/esbuild"
   },
   {

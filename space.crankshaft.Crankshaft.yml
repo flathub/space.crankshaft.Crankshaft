@@ -16,6 +16,8 @@ finish-args:
   # Make $XDG_STATE_HOME work on Flatpak 1.12 and lower
   - --persist=.local/state
   - --unset-env=XDG_STATE_HOME
+  # Symlinked Steam location
+  - --filesystem=home/.steam:rw
   # Non-Flatpak Steam
   - --filesystem=xdg-data/Steam:rw
 
@@ -65,5 +67,5 @@ modules:
       - yarn-sources.json
       - type: archive
         dest: src/git.sr.ht/~avery/crankshaft
-        url: https://git.sr.ht/~avery/crankshaft/archive/0.1.7.tar.gz
-        sha256: ae214186d99b35c88d1bd2504d12b47f53c47bd081daa8ffa77d897d9d5234bf
+        url: https://git.sr.ht/~avery/crankshaft/archive/0.1.8.tar.gz
+        sha256: cdd854c6e5ea4befe03c835c191683bcc67468b9d763a8a44452351953052252

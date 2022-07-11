@@ -67,5 +67,5 @@ modules:
       - yarn-sources.json
       - type: archive
         dest: src/git.sr.ht/~avery/crankshaft
-        url: https://git.sr.ht/~avery/crankshaft/archive/0.1.9.tar.gz
-        sha256: 947e6c860a104a834ca579d8159759f0a8b11080d44fea0c0445ed6ab70276c2
+        url: https://git.sr.ht/~avery/crankshaft/archive/0.2.0.tar.gz
+        sha256: 6a433c1e0f64ad8a8e1278b3204d7048b48ae371895049907e8ac4af9a7636fe

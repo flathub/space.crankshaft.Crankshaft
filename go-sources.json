@@ -2,7 +2,7 @@
   {
     "type": "git",
     "url": "https://go.googlesource.com/sys",
-    "commit": "f75cf1eec38b84b5cea42a93335150a532c7c75e",
+    "commit": "c0bba94af5f85fbad9f6dc2e04ed5b8fac9696cf",
     "dest": "src/golang.org/x/sys"
   },
   {
@@ -14,7 +14,7 @@
   {
     "type": "git",
     "url": "https://git.sr.ht/~avery/crankshaft",
-    "commit": "cda111bb9bed6c20c83d89b25d1f5878aa8a2cfa",
+    "commit": "9c16e920251bf5daa5d3cb2b3cc515a4270eaebe",
     "dest": "src/git.sr.ht/~avery/crankshaft"
   },
   {
@@ -26,7 +26,7 @@
   {
     "type": "git",
     "url": "https://github.com/chromedp/chromedp",
-    "commit": "ac112ec8eaa42607d85f349c75405957ce01d2fe",
+    "commit": "03c1c7402666a6d042354c57bfb8463f704684b9",
     "dest": "src/github.com/chromedp/chromedp"
   },
   {
@@ -50,7 +50,7 @@
   {
     "type": "git",
     "url": "https://github.com/gorilla/websocket",
-    "commit": "bc7ce893c36595e095de550a211feb5993e6ef92",
+    "commit": "af47554f343b4675b30172ac301638d350db34a5",
     "dest": "src/github.com/gorilla/websocket"
   },
   {
@@ -62,7 +62,7 @@
   {
     "type": "git",
     "url": "https://github.com/adrg/xdg",
-    "commit": "834fa7e1dad6e1258a5c1a75c7f0a4b433c6cd7d",
+    "commit": "31e6a328d142d3b8ed43fda69c4f2b55e77d8e79",
     "dest": "src/github.com/adrg/xdg"
   },
   {
@@ -104,7 +104,7 @@
   {
     "type": "git",
     "url": "https://github.com/evanw/esbuild",
-    "commit": "71be8bc24e70609ab50a80e90a17a1f5770c89b5",
+    "commit": "f730c03dc7be43c3c908fbd6e106120a99ebb4a0",
     "dest": "src/github.com/evanw/esbuild"
   },
   {

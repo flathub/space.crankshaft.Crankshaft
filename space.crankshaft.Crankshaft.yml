@@ -58,10 +58,10 @@ modules:
       - install -Dm755 crankshaft $FLATPAK_DEST/bin/crankshaft
       - install -Dm644 desktop/space.crankshaft.Crankshaft.metainfo.xml /app/share/metainfo/space.crankshaft.Crankshaft.metainfo.xml
       - install -Dm644 desktop/space.crankshaft.Crankshaft.desktop /app/share/applications/space.crankshaft.Crankshaft.desktop
-      - install -Dm644 desktop/puzzle-icon.svg /app/share/icons/hicolor/scalable/apps/space.crankshaft.Crankshaft.svg
-      - install -Dm644 desktop/puzzle-icon.32.png /app/share/icons/hicolor/32x32/apps/space.crankshaft.Crankshaft.png
-      - install -Dm644 desktop/puzzle-icon.64.png /app/share/icons/hicolor/64x64/apps/space.crankshaft.Crankshaft.png
-      - install -Dm644 desktop/puzzle-icon.128.png /app/share/icons/hicolor/128x128/apps/space.crankshaft.Crankshaft.png
+      - install -Dm644 desktop/logo.svg /app/share/icons/hicolor/scalable/apps/space.crankshaft.Crankshaft.svg
+      - install -Dm644 desktop/logo.32.png /app/share/icons/hicolor/32x32/apps/space.crankshaft.Crankshaft.png
+      - install -Dm644 desktop/logo.64.png /app/share/icons/hicolor/64x64/apps/space.crankshaft.Crankshaft.png
+      - install -Dm644 desktop/logo.128.png /app/share/icons/hicolor/128x128/apps/space.crankshaft.Crankshaft.png
     sources:
       - go-sources.json
       - yarn-sources.json

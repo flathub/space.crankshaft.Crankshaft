@@ -18,6 +18,8 @@ finish-args:
   - --unset-env=XDG_STATE_HOME
   # Symlinked Steam location
   - --filesystem=home/.steam:rw
+  # Flatpak Steam location
+  - --filesystem=home/.var/app/com.valvesoftware.Steam:rw
   # Non-Flatpak Steam
   - --filesystem=xdg-data/Steam:rw
 

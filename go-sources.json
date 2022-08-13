@@ -13,12 +13,6 @@
   },
   {
     "type": "git",
-    "url": "https://git.sr.ht/~avery/crankshaft",
-    "commit": "9e28260283771aa0ca3f9abd93dfbb815148bf3a",
-    "dest": "src/git.sr.ht/~avery/crankshaft"
-  },
-  {
-    "type": "git",
     "url": "https://github.com/josharian/intern",
     "commit": "42b52b674af5a7cef9ce7e197bc21c78394ae65d",
     "dest": "src/github.com/josharian/intern"

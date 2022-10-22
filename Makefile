@@ -52,5 +52,5 @@ run:
 
 .PHONY: bundle
 bundle:
-	flatpak-builder --repo=./repo build space.crankshaft.Crankshaft.yml --force-clean
+	flatpak-builder --repo=./repo build space.crankshaft.Crankshaft.yml --force-clean --keep-build-dirs --disable-cache
 	flatpak build-bundle ./repo crankshaft.flatpak  space.crankshaft.Crankshaft

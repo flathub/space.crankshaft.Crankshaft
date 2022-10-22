@@ -2,20 +2,14 @@
   {
     "type": "git",
     "url": "https://go.googlesource.com/sys",
-    "commit": "95e765b1cc43ac521bd4fd501e00774e34401449",
+    "commit": "c0bba94af5f85fbad9f6dc2e04ed5b8fac9696cf",
     "dest": "src/golang.org/x/sys"
   },
   {
     "type": "git",
     "url": "https://git.sr.ht/~avery/systray",
-    "commit": "99b4d6c7eac2bf88a5c3700f258b3ad83fe2ec0b",
+    "commit": "c553cf8a164a495ecbcc953dece4f1bd22af99ba",
     "dest": "src/git.sr.ht/~avery/systray"
-  },
-  {
-    "type": "git",
-    "url": "https://git.sr.ht/~avery/crankshaft",
-    "commit": "e8e69525d9a649fbd1759ee727f7a3baf33012da",
-    "dest": "src/git.sr.ht/~avery/crankshaft"
   },
   {
     "type": "git",
@@ -26,13 +20,13 @@
   {
     "type": "git",
     "url": "https://github.com/chromedp/chromedp",
-    "commit": "6a8fef8d17ceaf7dd5d64ac614f207c9b7e9d15a",
+    "commit": "03c1c7402666a6d042354c57bfb8463f704684b9",
     "dest": "src/github.com/chromedp/chromedp"
   },
   {
     "type": "git",
     "url": "https://github.com/chromedp/cdproto",
-    "commit": "490dc4d81f7c42f18a08657e6f6084151460a2d1",
+    "commit": "4cfc9cdeeb92925c1bdc86396110f35e776b76a7",
     "dest": "src/github.com/chromedp/cdproto"
   },
   {
@@ -74,7 +68,7 @@
   {
     "type": "git",
     "url": "https://github.com/felixge/httpsnoop",
-    "commit": "8b7a3718bcc5cce0a251b2d21eb77c58bcb1f788",
+    "commit": "ef9fc62cdc3cc5abc33d6018fe1324890bb48145",
     "dest": "src/github.com/felixge/httpsnoop"
   },
   {
@@ -104,13 +98,13 @@
   {
     "type": "git",
     "url": "https://github.com/evanw/esbuild",
-    "commit": "46087213e4f9e8163dfae4d8568949a5ea1dc749",
+    "commit": "f730c03dc7be43c3c908fbd6e106120a99ebb4a0",
     "dest": "src/github.com/evanw/esbuild"
   },
   {
     "type": "git",
     "url": "https://github.com/BurntSushi/toml",
-    "commit": "1ba7f5b05951c7331f4eefea9bce295e2cb141f2",
+    "commit": "2e74712cdd427078f9816c8f2eb42b538ea41fa8",
     "dest": "src/github.com/BurntSushi/toml"
   }
 ]
